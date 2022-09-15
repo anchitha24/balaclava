@@ -1,0 +1,116 @@
+
+.titleColor{
+  color : rgb(10, 58, 50);
+}
+
+.productTtitle {
+  font-size : 36px;
+  font-weight : normal;
+  margin-top : 40px;
+  margin-bottom : 14px;
+}
+
+.readMore{
+  color : grey;
+  font-weight : bold;
+  cursor : pointer;
+}
+
+.productDesc{
+  color : #666;
+  line-height : 26px;
+  margin-bottom : 20px;
+  font-size : 15px;
+  letter-spacing : 0.01em;
+}
+
+.mtb-10{
+  margin : 10px 0px 10px 0px;
+}
+
+.mb-60{
+  margin : 0px 0px 60px 0px;
+}
+
+.specLabel{
+  font-weight : normal;
+  color : #999;
+  font-size : 15px;
+  font-family : "Eina", sans-serif;
+}
+
+.sizeSelect{
+  font-family : Arial;
+  border : 1px solid #eee;
+  width : 100px;
+  padding : 10px;
+}
+
+.sizeGuide{
+  position : relative;
+  padding-bottom : 2px;
+  letter-spacing : 0.02em;
+  color : black;
+  margin-left : 18px;
+  margin-top : 4px;
+}
+
+.AddCartButton {
+  cursor : pointer;
+  width : 380px;
+  height : 55px;
+  background-color : #0a3a32 !important;
+  color : #f7d8c1 !important;
+  border : none;
+}
+
+.AddCartButton :hover {
+  background : #f7d8c1 !important;
+  color : #a05b45 !important;
+  border : none !important;
+}
+
+.cartIcon {
+  font-size : 22px;
+}
+
+.quantityButtonStyle {
+  background : white;
+  border : none;
+  font-size : 33px;
+  padding : 0px 4px;
+}
+
+.inputStyle {
+  border : none;
+  width : 100px;
+  text-align : center;
+  margin-top : 16px;
+}
+
+.quantityFullStyle {
+  border : 1px solid black;
+  width : 180px;
+  height : 55px;
+  position : relative;
+  border : 1px solid #eee;
+  margin-right : 21px;
+}
+
+.noteStyle {
+  color : #888;
+  margin-top : 10px;
+}
+
+.colorBorderStyle {
+  border : 2px solid rgb(227, 118, 118) !important;
+}
+
+.lineTopStyle {
+  margin-top : 60px;
+  color : #888;
+}
+
+.skuDisplay {
+  margin-top : 50px;
+}

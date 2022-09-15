@@ -1,0 +1,15 @@
+
+.logoImageStyle {
+  display : block;
+  max-width : 100%;
+  height : auto;
+}
+
+.iconSize {
+  font-size : 23px;
+  margin-top : 17px;
+}
+
+.customWidth {
+  width : 118px !important;
+}

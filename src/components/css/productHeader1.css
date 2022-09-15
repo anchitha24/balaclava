@@ -1,0 +1,28 @@
+.headerImageBoxStyle {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  flex-direction : column;
+  height : 147px;
+  overflow : hidden;
+  position : relative;
+  padding : 44px 0;
+  background : #f7d8c1;
+  background-repeat : no-repeat;
+  background-size : cover;
+}
+
+.headerImageStyle {
+  opacity : 0.1;
+  position : absolute;
+  left : 0px;
+  top : 0px;
+  width : 100%;
+  height : 100%;
+  object-fit : cover;
+}
+
+.headerTextStyle {
+  color : #0b3a32 !important;
+  text-align : center;
+}

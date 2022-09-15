@@ -1,0 +1,37 @@
+
+.descriptionStyle {
+  font-size : 18px;
+  font-weight : 600;
+  color : #888;
+  padding-bottom : 6px;
+  text-align : center;
+  margin-bottom : 30px;
+  margin-top : 30px;
+  display : flex;
+  justify-content : center;
+}
+
+.descriptionBoxStyle {
+  width : 100px;
+  padding : 3px;
+}
+
+.descriptionBoxStyle :hover {
+  color : #a05b45 !important;
+  border-bottom : 2px solid #a05b45 !important;
+}
+
+.contentStyle {
+  border : 1px solid #eee;
+  padding : 10px;
+}
+
+.descriptionContentStyle {
+  max-width : 900px;
+  text-align : center;
+  margin : 0 auto;
+  font-size : 14px;
+  color : #666;
+  line-height : 24px;
+  font-family : revert !important;
+}

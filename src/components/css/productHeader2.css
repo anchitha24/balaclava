@@ -1,0 +1,24 @@
+.breadcrumb.v2 {
+  margin : 34px 0;
+}
+
+.breadcrumb>li {
+  display : inline-block;
+  font-size : 13px;
+}
+
+.breadcrumb>li a {
+  color : #888 !important;
+  font-size : 13px;
+}
+
+.breadcrumb>.active {
+  font-weight : 600;
+}
+
+.breadcrumb>span {
+  content : "\f105";
+  font-family : "FontAwesome", sans-serif;
+  padding : 0 10px;
+  color : #888;
+}
