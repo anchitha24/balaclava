@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2fffb98.css",
-    "main.js": "/static/js/main.d14063fc.js",
-    "static/js/787.b246929e.chunk.js": "/static/js/787.b246929e.chunk.js",
-    "static/media/shop-head.png": "/static/media/shop-head.59161bac49796564a7b0.png",
-    "static/media/cards.svg": "/static/media/cards.5a47924c1c9b30257688aa800060fa82.svg",
-    "index.html": "/index.html",
-    "main.c2fffb98.css.map": "/static/css/main.c2fffb98.css.map",
-    "main.d14063fc.js.map": "/static/js/main.d14063fc.js.map",
-    "787.b246929e.chunk.js.map": "/static/js/787.b246929e.chunk.js.map"
+    "main.css": "/balaclava/static/css/main.c2fffb98.css",
+    "main.js": "/balaclava/static/js/main.9398be37.js",
+    "static/js/787.b246929e.chunk.js": "/balaclava/static/js/787.b246929e.chunk.js",
+    "static/media/shop-head.png": "/balaclava/static/media/shop-head.59161bac49796564a7b0.png",
+    "static/media/cards.svg": "/balaclava/static/media/cards.5a47924c1c9b30257688aa800060fa82.svg",
+    "index.html": "/balaclava/index.html",
+    "main.c2fffb98.css.map": "/balaclava/static/css/main.c2fffb98.css.map",
+    "main.9398be37.js.map": "/balaclava/static/js/main.9398be37.js.map",
+    "787.b246929e.chunk.js.map": "/balaclava/static/js/787.b246929e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2fffb98.css",
-    "static/js/main.d14063fc.js"
+    "static/js/main.9398be37.js"
   ]
 }
