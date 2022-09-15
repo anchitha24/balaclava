@@ -64,7 +64,7 @@
   border : none;
 }
 
-.AddCartButton :hover {
+.AddCartButton:hover {
   background : #f7d8c1 !important;
   color : #a05b45 !important;
   border : none !important;
